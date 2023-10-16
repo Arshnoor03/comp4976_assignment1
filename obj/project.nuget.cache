@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "75YJCBgXfszrP/97PV/Ilo6LBZWJchy5jkHDKK/4RQbsCN+4++hidc4n3Rz9p56o5Sho9P+4U32hhfDoeSQzvw==",
+  "dgSpecHash": "MXdgGhmg07isT679QYaYQ8Crmh5RdlyEZEUfezmxnaFhjKO0/Kapl/UNeyAvdyRlp176kakTKhrJIZWh1qRa5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\COMP4976\\Assignment1\\Siwoom\\comp4976_assignment1\\comp4976_assignment1.csproj",
+  "projectFilePath": "C:\\Users\\Arshnoor Kaur\\Downloads\\comp4976_assignment1-main\\comp4976_assignment1-main\\comp4976_assignment1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arshnoor Kaur\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Arshnoor Kaur\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

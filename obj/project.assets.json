@@ -11122,11 +11122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\COMP4976\\Assignment1\\Siwoom\\comp4976_assignment1\\comp4976_assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\Arshnoor Kaur\\Downloads\\comp4976_assignment1-main\\comp4976_assignment1-main\\comp4976_assignment1.csproj",
       "projectName": "comp4976_assignment1",
-      "projectPath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\COMP4976\\Assignment1\\Siwoom\\comp4976_assignment1\\comp4976_assignment1.csproj",
+      "projectPath": "C:\\Users\\Arshnoor Kaur\\Downloads\\comp4976_assignment1-main\\comp4976_assignment1-main\\comp4976_assignment1.csproj",
       "packagesPath": "C:\\Users\\Arshnoor Kaur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arshnoor Kaur\\Desktop\\BCIT SEM4\\COMP4976\\Assignment1\\Siwoom\\comp4976_assignment1\\obj\\",
+      "outputPath": "C:\\Users\\Arshnoor Kaur\\Downloads\\comp4976_assignment1-main\\comp4976_assignment1-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arshnoor Kaur\\AppData\\Roaming\\NuGet\\NuGet.Config"
